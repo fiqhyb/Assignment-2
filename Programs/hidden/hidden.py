@@ -1,0 +1,1 @@
+a=("Why the fuck would you put '-'?\nyou put the stones into your anus?")
